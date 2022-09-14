@@ -44,12 +44,12 @@ How it works:
 ```markdown
 ### plugin-name
 
-+ **Description:** Description of the plugin.
-+ **Issues:** Links to any issues about this in the helix repo. Leave
++ Description: Description of the plugin.
++ Issues: Links to any issues about this in the helix repo. Leave
 empty if it's a new idea.
-+ **References:** Links to any references like preexisting plugins, etc. Leave
++ References: Links to any references like preexisting plugins, etc. Leave
 empty if it's a new idea.
-+ **Implementation:** Plugin/Builtin
++ Implementation: Plugin/Builtin
 ```
 
 ## Pull Requests:
