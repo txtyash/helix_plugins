@@ -21,13 +21,15 @@ How it works:
 *   Description: Magit is an interface to the version control system Git,
     implemented as an Emacs package.
 *   Issues: <https://github.com/helix-editor/helix/issues/227>
-*   Reference: <https://github.com/magit/magit>
+*   References: <https://github.com/magit/magit>
+*   Implementation:
 
 ### vim-move:
 
 *   Description: This is a plugin for vim to move lines.
 *   Issues: <https://github.com/helix-editor/helix/issues/2245>
-*   Reference: <https://github.com/matze/vim-move>
+*   References: <https://github.com/matze/vim-move>
+*   Implementation: Plugin
 
 # Contributing
 
@@ -47,6 +49,7 @@ How it works:
 empty if it's a new idea.
 + **References:** Links to any references like preexisting plugins, etc. Leave
 empty if it's a new idea.
++ **Implementation:** Plugin/Builtin
 ```
 
 ## Pull Requests:
