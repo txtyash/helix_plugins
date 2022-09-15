@@ -16,6 +16,13 @@ How it works:
 
 # Plugin/Idea Description
 
+### GhostText:
+
+*   Description: Use your text editor in the browser
+*   Issues: <https://github.com/helix-editor/helix/issues/3339>
+*   References: <https://ghosttext.fregante.com/>
+*   Implementation:
+
 ### magit:
 
 *   Description: Magit is an interface to the version control system Git,
