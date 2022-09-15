@@ -40,6 +40,9 @@ How it works:
 
 # Contributing
 
+Users can contribute by either opening an issue or making a PR. Just make sure
+to follow these rules for issues and pull requests:
+
 ## Issues:
 
 *   Make an issue only if a plugin similar to your description is not available
