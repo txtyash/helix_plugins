@@ -11,11 +11,19 @@ How it works:
 
 # Plugins and Plugin Ideas
 
+1.  [ ghosttext ](#GhostText)
 1.  [ helix-remote-development ](#helix-remote-development)
 2.  [ magit ](#magit)
 3.  [ vim-move ](#vim-move)
 
 # Plugin/Idea Description
+
+### GhostText:
+
+*   Description: Use your text editor in the browser
+*   Issues: <https://github.com/helix-editor/helix/issues/3339>
+*   References: <https://ghosttext.fregante.com/>
+*   Implementation:
 
 ### helix-remote-development
 
