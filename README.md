@@ -3,6 +3,7 @@
 How it works:
 
 *   This repo's purpose is to have a list of the most desired helix plugins.
+It is for expressing why it is good thing to have a plugin system.
 *   You could suggest preexisting plugins from editors such as vscode, emacs,
     vim, etc. or you could describe your new plugin idea & give it a name.
 *   In case you do not understand a specific plugin's purpose from just it's
