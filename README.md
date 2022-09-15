@@ -11,9 +11,9 @@ How it works:
 
 # Plugins and Plugin Ideas
 
-1.  [ vim-move ](#vim-move)
+1.  [ helix-remote-development ](#helix-remote-development)
 2.  [ magit ](#magit)
-3.  [ helix-remote-development ](#helix-remote-development)
+3.  [ vim-move ](#vim-move)
 
 # Plugin/Idea Description
 
@@ -23,6 +23,13 @@ How it works:
 *   Issues: <https://github.com/helix-editor/helix/issues/3339>
 *   References: <https://ghosttext.fregante.com/>
 *   Implementation:
+
+### helix-remote-development
+
+*   Description: Seamlessly edit code from ssh host machine
+*   Issues: <https://github.com/helix-editor/helix/issues/3721>, #2
+*   References: <https://code.visualstudio.com/docs/remote/remote-overview>
+*   Implementation: Plugin
 
 ### magit:
 
@@ -37,13 +44,6 @@ How it works:
 *   Description: This is a plugin for vim to move lines.
 *   Issues: <https://github.com/helix-editor/helix/issues/2245>
 *   References: <https://github.com/matze/vim-move>
-*   Implementation: Plugin
-
-### helix-remote-development
-
-*   Description: Seamlessly edit code from ssh host machine
-*   Issues: <https://github.com/helix-editor/helix/issues/3721>, #2
-*   References: <https://code.visualstudio.com/docs/remote/remote-overview>
 *   Implementation: Plugin
 
 # Contributing
@@ -73,5 +73,6 @@ to follow these rules for issues and pull requests:
 ## Pull Requests:
 
 *   Rules similar to rules for issues follow here.
+*   Add plugin name to the [list](#plugins-and-plugin-ideas)
 *   Arrange plugins in alphabetical order.
 *   Don't forcefully start names with early alphabets.
