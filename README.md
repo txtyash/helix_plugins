@@ -49,15 +49,9 @@ How it works:
 # Contributing
 
 Users can contribute by either opening an issue or making a PR. Just make sure
-to follow these rules for issues and pull requests:
+to follow the below format for issues and pull requests:
 
-## Issues:
-
-*   Make an issue only if a plugin similar to your description is not available
-    in the list.
-*   If you have a new idea for a plugin then please give it a short
-    descriptive name.
-*   Format:
+Format:
 
 ```markdown
 ### plugin-name
@@ -70,9 +64,14 @@ to follow these rules for issues and pull requests:
 + Implementation: Plugin/Builtin
 ```
 
+## Issues:
+
+*   Check the list to prevent duplicates.
+*   If it's a new idea then give it a short descriptive name.
+*   Add the information according to the format.
+
 ## Pull Requests:
 
 *   Rules similar to rules for issues follow here.
-*   Add plugin name to the [list](#plugins-and-plugin-ideas)
-*   Arrange plugins in alphabetical order.
-*   Don't forcefully start names with early alphabets.
+*   Follow alphabetical order while changing the list.
+*   Names should be lowercase.
