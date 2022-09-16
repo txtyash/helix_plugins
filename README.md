@@ -15,6 +15,7 @@ How it works:
 1.  [ helix-remote-development ](#helix-remote-development)
 1.  [ magit ](#magit)
 1.  [ org-mode ](#org-mode)
+1.  [ table-mode ](#table-mode)
 1.  [ vim-move ](#vim-move)
 
 # Plugin/Idea Description
@@ -46,6 +47,13 @@ How it works:
 - Description: A GNU Emacs major mode for keeping notes.
 - Issues: helix-editor/helix/issues/2825
 - References: <https://orgmode.org/>
+- Implementation: Plugin
+
+### table-mode:
+
+- Description: Automatic table creator & formatter allowing one to create neat tables as you type.
+- Issues: helix-editor/helix/issues/2819
+- References: <https://github.com/dhruvasagar/vim-table-mode>
 - Implementation: Plugin
 
 ### vim-move:
