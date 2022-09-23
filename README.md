@@ -11,14 +11,24 @@ How it works:
 
 # Plugins and Plugin Ideas
 
+1.  [ colorizer ](#colorizer)
 1.  [ ghosttext ](#GhostText)
 1.  [ helix-remote-development ](#helix-remote-development)
 1.  [ magit ](#magit)
 1.  [ org-mode ](#org-mode)
+1.  [ shade ](#shade)
 1.  [ table-mode ](#table-mode)
+1.  [ tabout ](#tabout)
 1.  [ vim-move ](#vim-move)
 
 # Plugin/Idea Description
+
+### Colorizer:
+
+- Description: Color previewer in files
+- Issues: None
+- References: <https://github.com/norcalli/nvim-colorizer.lua>
+- Implementation: Builtin
 
 ### GhostText:
 
@@ -49,12 +59,27 @@ How it works:
 - References: <https://orgmode.org/>
 - Implementation: Plugin
 
+### shade:
+
+- Description: Dim your inactive windows, making it easier to see the active
+  window at a glance.
+- Issues: None
+- References: <https://github.com/sunjon/Shade.nvim>
+- Implementation: Builtin
+
 ### table-mode:
 
 - Description: Automatic table creator & formatter allowing one to create neat tables as you type.
 - Issues: helix-editor/helix/issues/2819
 - References: <https://github.com/dhruvasagar/vim-table-mode>
 - Implementation: Plugin
+
+### tabout:
+
+- Description: [Tabbing out from parentheses, quotes, and similar contexts.](https://github.com/helix-editor/helix/issues/1587#issue-1115976332)
+- Issues: <https://github.com/helix-editor/helix/issues/1587>
+- References: <https://github.com/abecodes/tabout.nvim>
+- Implementation: Builtin
 
 ### vim-move:
 
