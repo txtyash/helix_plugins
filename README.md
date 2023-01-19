@@ -41,7 +41,7 @@ How it works:
 ### helix-remote-development
 
 *   Description: Seamlessly edit code from ssh host machine
-*   Issues/Discussions: helix-editor/helix/issues/3721, #2
+*   Issues/Discussions: helix-editor/helix/issues/3721, zim0369/helix\_plugins/issues/2
 *   References: <https://code.visualstudio.com/docs/remote/remote-overview>
 *   Implementation: Plugin
 
@@ -92,7 +92,7 @@ How it works:
 ### wakatime:
 
 *   Description: Code stats right from your editor
-*   Issues/Discussions: <https://github.com/helix-editor/helix/discussions/3477>
+*   Issues/Discussions: helix-editor/helix/discussions/3477, zim0369/helix\_plugins/issues/6
 *   References: <https://wakatime.com/help/creating-plugin>
 *   Implementation: Plugin
 
