@@ -12,15 +12,16 @@ How it works:
 # Plugins and Plugin Ideas
 
 1.  [ colorizer ](#colorizer)
-2.  [ ghosttext ](#GhostText)
-3.  [ helix-remote-development ](#helix-remote-development)
-4.  [ magit ](#magit)
-5.  [ org-mode ](#org-mode)
-6.  [ shade ](#shade)
-7.  [ table-mode ](#table-mode)
-8.  [ tabout ](#tabout)
-9.  [ vim-move ](#vim-move)
-10. [ wakatime ](#wakatime)
+2.  [ easymotion ](#easymotion)
+3.  [ ghosttext ](#GhostText)
+4.  [ helix-remote-development ](#helix-remote-development)
+5.  [ magit ](#magit)
+6.  [ org-mode ](#org-mode)
+7.  [ shade ](#shade)
+8.  [ table-mode ](#table-mode)
+9.  [ tabout ](#tabout)
+10. [ vim-move ](#vim-move)
+11. [ wakatime ](#wakatime)
 
 # Plugin/Idea Description
 
@@ -31,27 +32,34 @@ How it works:
 *   References: <https://github.com/norcalli/nvim-colorizer.lua>
 *   Implementation: Builtin
 
+### EasyMotion:
+
+*   Description: Simpler way to use motions by highlighting choices
+*   Issues/Discussions: zim0369/helix\_plugins/issues/7
+*   References: <https://github.com/easymotion/vim-easymotion>
+*   Implementation: Plugin
+
 ### GhostText:
 
 *   Description: Use your text editor in the browser
 *   Issues/Discussions: helix-editor/helix/issues/3339
 *   References: <https://ghosttext.fregante.com/>
-*   Implementation:
+*   Implementation: Plugin
 
-### helix-remote-development
+### Helix-Remote-Development
 
 *   Description: Seamlessly edit code from ssh host machine
 *   Issues/Discussions: helix-editor/helix/issues/3721, zim0369/helix\_plugins/issues/2
 *   References: <https://code.visualstudio.com/docs/remote/remote-overview>
 *   Implementation: Plugin
 
-### magit:
+### Magit:
 
 *   Description: Magit is an interface to the version control system Git,
     implemented as an Emacs package.
 *   Issues/Discussions: helix-editor/helix/issues/227
 *   References: <https://github.com/magit/magit>
-*   Implementation:
+*   Implementation: Plugin
 
 ### org-mode:
 
@@ -60,7 +68,7 @@ How it works:
 *   References: <https://orgmode.org/>
 *   Implementation: Plugin
 
-### shade:
+### Shade:
 
 *   Description: Dim your inactive windows, making it easier to see the active
     window at a glance.
@@ -68,28 +76,28 @@ How it works:
 *   References: <https://github.com/sunjon/Shade.nvim>
 *   Implementation: Builtin
 
-### table-mode:
+### Table-Mode:
 
 *   Description: Automatic table creator & formatter allowing one to create neat tables as you type.
 *   Issues/Discussions: helix-editor/helix/issues/2819
 *   References: <https://github.com/dhruvasagar/vim-table-mode>
 *   Implementation: Plugin
 
-### tabout:
+### Tabout:
 
 *   Description: [Tabbing out from parentheses, quotes, and similar contexts.](https://github.com/helix-editor/helix/issues/1587#issue-1115976332)
 *   Issues/Discussions: <https://github.com/helix-editor/helix/issues/1587>
 *   References: <https://github.com/abecodes/tabout.nvim>
 *   Implementation: Builtin
 
-### vim-move:
+### Vim-Move:
 
 *   Description: This is a plugin for vim to move lines.
 *   Issues/Discussions: helix-editor/helix/issues/2245
 *   References: <https://github.com/matze/vim-move>
 *   Implementation: Plugin
 
-### wakatime:
+### Wakatime:
 
 *   Description: Code stats right from your editor
 *   Issues/Discussions: helix-editor/helix/discussions/3477, zim0369/helix\_plugins/issues/6
