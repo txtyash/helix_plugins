@@ -11,19 +11,27 @@ How it works:
 
 ## Plugins and Plugin Ideas
 
-1.  [ colorizer ](#colorizer)
-2.  [ easymotion ](#easymotion)
-3.  [ ghosttext ](#GhostText)
-4.  [ helix-remote-development ](#helix-remote-development)
-5.  [ magit ](#magit)
-6.  [ org-mode ](#org-mode)
-7.  [ shade ](#shade)
-8.  [ table-mode ](#table-mode)
-9.  [ tabout ](#tabout)
-10. [ vim-move ](#vim-move)
-11. [ wakatime ](#wakatime)
+1. [ codestats ](#codestats)
+1. [ colorizer ](#colorizer)
+1. [ easymotion ](#easymotion)
+1. [ ghosttext ](#GhostText)
+1. [ helix-remote-development ](#helix-remote-development)
+1. [ magit ](#magit)
+1. [ org-mode ](#org-mode)
+1. [ shade ](#shade)
+1. [ table-mode ](#table-mode)
+1. [ tabout ](#tabout)
+1. [ vim-move ](#vim-move)
+1. [ wakatime ](#wakatime)
 
 ## Plugin/Idea Description
+
+### Code::Stats:
+
+*   Description: Generate statistics from your programming. This would require having access to the keypresses of the editor (to count them), or alternatively some "text changed" type event where the typed amount can be calculated from. Also required is access to the name of the currently edited language. Some way of differentiating typing/deletion and pasting would also be needed if access to keypress events is not available.
+*   Issues/Discussions: N/A
+*   References: <https://codestats.net/api-docs>, other plugins as examples: <https://codestats.net/plugins>
+*   Implementation: Plugin
 
 ### Colorizer:
 
