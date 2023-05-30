@@ -15,13 +15,14 @@ How it works:
 2.  [ easymotion ](#easymotion)
 3.  [ ghosttext ](#GhostText)
 4.  [ helix-remote-development ](#helix-remote-development)
-5.  [ magit ](#magit)
-6.  [ org-mode ](#org-mode)
-7.  [ shade ](#shade)
-8.  [ table-mode ](#table-mode)
-9.  [ tabout ](#tabout)
-10. [ vim-move ](#vim-move)
-11. [ wakatime ](#wakatime)
+5.  [ jupyter ](#jupyter)
+6.  [ magit ](#magit)
+7.  [ org-mode ](#org-mode)
+8.  [ shade ](#shade)
+9.  [ table-mode ](#table-mode)
+10. [ tabout ](#tabout)
+11. [ vim-move ](#vim-move)
+12. [ wakatime ](#wakatime)
 
 ## Plugin/Idea Description
 
@@ -51,6 +52,13 @@ How it works:
 *   Description: Seamlessly edit code from ssh host machine
 *   Issues/Discussions: helix-editor/helix/issues/3721, zim0369/helix\_plugins/issues/2
 *   References: <https://code.visualstudio.com/docs/remote/remote-overview>
+*   Implementation: Plugin
+
+### Jupyter:
+
+*   Description: Two-way integration between Helix and Jupyter. Should allow for interactive plotting (maybe by integrating with JupyterLab).
+*   Issues/Discussions: <https://github.com/helix-editor/helix/issues/2806>
+*   References: <https://github.com/jupyter-vim/jupyter-vim>
 *   Implementation: Plugin
 
 ### Magit:
