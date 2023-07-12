@@ -12,21 +12,22 @@ How it works:
 ## Plugins and Plugin Ideas
 
 1. [ codestats ](#codestats)
-1. [ colorizer ](#colorizer)
-1. [ easymotion ](#easymotion)
-1. [ ghosttext ](#GhostText)
-1. [ helix-remote-development ](#helix-remote-development)
-1. [ magit ](#magit)
-1. [ org-mode ](#org-mode)
-1. [ shade ](#shade)
-1. [ table-mode ](#table-mode)
-1. [ tabout ](#tabout)
-1. [ vim-move ](#vim-move)
-1. [ wakatime ](#wakatime)
+2.  [ colorizer ](#colorizer)
+3.  [ easymotion ](#easymotion)
+4.  [ ghosttext ](#GhostText)
+5.  [ helix-remote-development ](#helix-remote-development)
+6.  [ jupyter ](#jupyter)
+7.  [ magit ](#magit)
+8.  [ org-mode ](#org-mode)
+9.  [ shade ](#shade)
+10.  [ table-mode ](#table-mode)
+11. [ tabout ](#tabout)
+12. [ vim-move ](#vim-move)
+13. [ wakatime ](#wakatime)
 
 ## Plugin/Idea Description
 
-### Code::Stats:
+### Code Stats:
 
 *   Description: Generate statistics from your programming. This would require having access to the keypresses of the editor (to count them), or alternatively some "text changed" type event where the typed amount can be calculated from. Also required is access to the name of the currently edited language. Some way of differentiating typing/deletion and pasting would also be needed if access to keypress events is not available.
 *   Issues/Discussions: N/A
@@ -59,6 +60,13 @@ How it works:
 *   Description: Seamlessly edit code from ssh host machine
 *   Issues/Discussions: helix-editor/helix/issues/3721, zim0369/helix\_plugins/issues/2
 *   References: <https://code.visualstudio.com/docs/remote/remote-overview>
+*   Implementation: Plugin
+
+### Jupyter:
+
+*   Description: Two-way integration between Helix and Jupyter. Should allow for interactive plotting (maybe by integrating with JupyterLab).
+*   Issues/Discussions: <https://github.com/helix-editor/helix/issues/2806>
+*   References: <https://github.com/jupyter-vim/jupyter-vim>
 *   Implementation: Plugin
 
 ### Magit:
