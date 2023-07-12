@@ -11,19 +11,18 @@ How it works:
 
 ## Plugins and Plugin Ideas
 
-1. [ codestats ](#codestats)
-2.  [ colorizer ](#colorizer)
-3.  [ easymotion ](#easymotion)
-4.  [ ghosttext ](#GhostText)
-5.  [ helix-remote-development ](#helix-remote-development)
-6.  [ jupyter ](#jupyter)
-7.  [ magit ](#magit)
-8.  [ org-mode ](#org-mode)
-9.  [ shade ](#shade)
-10.  [ table-mode ](#table-mode)
-11. [ tabout ](#tabout)
-12. [ vim-move ](#vim-move)
-13. [ wakatime ](#wakatime)
+1. [ codestats ](#code-stats)
+1. [ colorizer ](#colorizer)
+1. [ easymotion ](#easy-motion)
+1. [ ghosttext ](#ghost-text)
+1. [ helix-remote-development ](#helix-remote-development)
+1. [ jupyter ](#jupyter)
+1. [ magit ](#magit)
+1. [ org-mode ](#org-mode)
+1. [ table-mode ](#table-mode)
+1. [ tabout ](#tabout)
+1. [ vim-move ](#vim-move)
+1. [ wakatime ](#wakatime)
 
 ## Plugin/Idea Description
 
@@ -83,14 +82,6 @@ How it works:
 *   Issues/Discussions: helix-editor/helix/issues/2825
 *   References: <https://orgmode.org/>
 *   Implementation: Plugin
-
-### Shade:
-
-*   Description: Dim your inactive windows, making it easier to see the active
-    window at a glance.
-*   Issues/Discussions: None
-*   References: <https://github.com/sunjon/Shade.nvim>
-*   Implementation: Builtin
 
 ### Table Mode:
 
