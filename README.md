@@ -29,9 +29,9 @@ How it works:
 
 ### Code Stats:
 
-*   Description: Generate statistics from your programming. This would require having access to the keypresses of the editor (to count them), or alternatively some "text changed" type event where the typed amount can be calculated from. Also required is access to the name of the currently edited language. Some way of differentiating typing/deletion and pasting would also be needed if access to keypress events is not available.
+*   Description: Generate statistics from your programming.
 *   Issues/Discussions: N/A
-*   References: <https://codestats.net/api-docs>, other plugins as examples: <https://codestats.net/plugins>
+*   References: <https://codestats.net/api-docs>, <https://codestats.net/plugins>
 *   Implementation: Plugin
 
 ### Colorizer:
