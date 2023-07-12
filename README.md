@@ -18,6 +18,7 @@ How it works:
 1. [ helix-remote-development ](#helix-remote-development)
 1. [ jupyter ](#jupyter)
 1. [ magit ](#magit)
+1. [ mucomplete ](#mucomplete)
 1. [ org-mode ](#org-mode)
 1. [ table-mode ](#table-mode)
 1. [ tabout ](#tabout)
@@ -38,7 +39,7 @@ How it works:
 *   Description: Color previewer in files
 *   Issues/Discussions: None
 *   References: <https://github.com/norcalli/nvim-colorizer.lua>
-*   Implementation: Builtin
+*   Implementation: Built-in
 
 ### Easy Motion:
 
@@ -76,6 +77,13 @@ How it works:
 *   References: <https://github.com/magit/magit>
 *   Implementation: Plugin
 
+### MUcomplete:
+
+*   Description: Autocompletion
+*   Issues/Discussions: helix-editor/helix/issues/1063, helix-editor/helix#901, helix-editor/helix#1015
+*   References: <https://github.com/lifepillar/vim-mucomplete>
+*   Implementation: Built-in
+
 ### Org Mode:
 
 *   Description: A GNU Emacs major mode for keeping notes.
@@ -95,7 +103,7 @@ How it works:
 *   Description: [Tabbing out from parentheses, quotes, and similar contexts.](https://github.com/helix-editor/helix/issues/1587#issue-1115976332)
 *   Issues/Discussions: <https://github.com/helix-editor/helix/issues/1587>
 *   References: <https://github.com/abecodes/tabout.nvim>
-*   Implementation: Builtin
+*   Implementation: Built-in
 
 ### Vim Move:
 
@@ -125,7 +133,7 @@ to follow the below format for issues and pull requests:
     separated). Leave empty if it's a new idea.
   * References: Links to any references like preexisting plugins, etc. Leave
     empty if it's a new idea.
-  * Implementation: Plugin/Builtin
+  * Implementation: Plugin/Built-in
 ```
 
 ### Issues:
